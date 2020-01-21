@@ -1,0 +1,19 @@
+{
+  "name": "border-box.css",
+  "version": "1.0.0",
+  "description": "Apply \"box-sizing: border box\" globally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcsally/border-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidcsally/border-box/issues"
+  },
+  "homepage": "https://github.com/davidcsally/border-box#readme"
+}

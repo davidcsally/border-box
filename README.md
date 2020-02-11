@@ -1,5 +1,7 @@
 # border-box.css
 
+## How to use
+
 **NPM**
 
 ```sh
@@ -11,6 +13,12 @@ npm i --save border-box.css
 ```sh
 yarn add border-box.css
 ```
+
+Then, in your application: 
+
+```import 'border-box.css'```
+
+You will need to use a bundler like `webpack` that can process css files!
 
 ## What does it do?
 

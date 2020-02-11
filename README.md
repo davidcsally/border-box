@@ -32,4 +32,8 @@ I wouldn't forget to write this boilerplate in my projects.
 
 ## Is this satire on the state of NPM?
 
-Maybe. But it's also a module!
+Maybe. But it's also a module that does one thing really well!
+
+## For more info
+
+This entire package comes from the technique laid out in this [excellent article from css-tricks](https://css-tricks.com/box-sizing/#article-header-id-3)

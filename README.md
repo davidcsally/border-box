@@ -14,7 +14,7 @@ npm i --save border-box.css
 yarn add border-box.css
 ```
 
-Then, in your application: 
+Then, in your root application file: 
 
 ```import 'border-box.css'```
 
